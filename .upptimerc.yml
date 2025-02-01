@@ -11,9 +11,9 @@ sites:
     - name: webhook
       # slug: push
       url: $WEBHOOK_URL
-    - name: Broken test
-      # slug: broken-test
-      url: https://thissitedoesnotexist.koj.co
+    # - name: Broken Test
+    #   # slug: broken-test
+    #   url: https://thissitedoesnotexist.koj.co
 
 status-website:
     # cname:
