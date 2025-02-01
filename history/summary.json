@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 913,
-    "timeDay": 913,
-    "timeWeek": 913,
-    "timeMonth": 913,
-    "timeYear": 913,
+    "time": 873,
+    "timeDay": 873,
+    "timeWeek": 873,
+    "timeMonth": 873,
+    "timeYear": 873,
     "dailyMinutesDown": {}
   },
   {
@@ -28,15 +28,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 880,
-    "timeDay": 880,
-    "timeWeek": 880,
-    "timeMonth": 880,
-    "timeYear": 880,
+    "time": 875,
+    "timeDay": 875,
+    "timeWeek": 875,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   },
   {
-    "name": "无效测试",
+    "name": "Broken test",
     "url": "https://thissitedoesnotexist.koj.co",
     "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
     "slug": "broken-test",
@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 15
+      "2025-02-01": 17
     }
   }
 ]
