@@ -8,13 +8,10 @@ sites:
     - name: ymbhp-web
       # slug: ymbhp-web
       url: https://www.ymbhp.com
-    - name: Broken test
-      # slug: broken-test
-      url: https://thissitedoesnotexist.koj.co
     - name: webhook
       # slug: push
       url: $WEBHOOK_URL
-    - name: Broken test 2
+    - name: Broken test
       # slug: broken-test
       url: https://thissitedoesnotexist.koj.co
 
