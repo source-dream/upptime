@@ -8,8 +8,8 @@ sites:
     - name: 源梦百货铺
       slug: ymbhp
       url: https://www.ymbhp.com
-    - name: 无效测试
-      slug: broken-test
+    - name: Broken test
+      # slug: broken-test
       url: https://thissitedoesnotexist.koj.co
 
 status-website:
