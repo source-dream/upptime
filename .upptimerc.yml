@@ -11,6 +11,9 @@ sites:
     - name: Broken test
       # slug: broken-test
       url: https://thissitedoesnotexist.koj.co
+    - name: Broken test 2
+      # slug: broken-test
+      url: https://thissitedoesnotexist.koj.co
 
 status-website:
     # cname:
