@@ -22,8 +22,6 @@ status-website:
     # navbar:
     # - title: Status
     #   href: /
-    # - title: GitHub
-    #   href: https://github.com/$OWNER/$REPO
 
 i18n:
     footer: "This page is created by [sourcedream](blog.sourcedream.cn), powered by [upptime](https://upptime.js.org)"
