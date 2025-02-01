@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 912,
-    "timeWeek": 912,
-    "timeMonth": 912,
-    "timeYear": 912,
+    "time": 920,
+    "timeDay": 920,
+    "timeWeek": 920,
+    "timeMonth": 920,
+    "timeYear": 920,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 918,
-    "timeDay": 918,
-    "timeWeek": 918,
-    "timeMonth": 918,
-    "timeYear": 918,
+    "time": 917,
+    "timeDay": 917,
+    "timeWeek": 917,
+    "timeMonth": 917,
+    "timeYear": 917,
     "dailyMinutesDown": {}
   },
   {
@@ -52,8 +52,26 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 38
+      "2025-02-01": 77
     }
+  },
+  {
+    "name": "webhook",
+    "url": "$WEBHOOK_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "webhook",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 805,
+    "timeDay": 805,
+    "timeWeek": 805,
+    "timeMonth": 805,
+    "timeYear": 805,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Broken test 2",
@@ -72,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-01": 0
+      "2025-02-01": 39
     }
   }
 ]
