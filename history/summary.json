@@ -4,18 +4,20 @@
     "url": "https://api.sourcedream.cn",
     "icon": "https://icons.duckduckgo.com/ip3/api.sourcedream.cn.ico",
     "slug": "ymbhp-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 961,
-    "timeDay": 1044,
-    "timeWeek": 1040,
-    "timeMonth": 961,
-    "timeYear": 961,
-    "dailyMinutesDown": {}
+    "time": 965,
+    "timeDay": 1045,
+    "timeWeek": 1041,
+    "timeMonth": 965,
+    "timeYear": 965,
+    "dailyMinutesDown": {
+      "2025-02-15": 0
+    }
   },
   {
     "name": "ymbhp-web",
