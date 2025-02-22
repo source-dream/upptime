@@ -1,7 +1,7 @@
 url: https://api.sourcedream.cn
-status: up
-code: 200
-responseTime: 947
-lastUpdated: 2025-02-21T23:22:44.030Z
+status: down
+code: 502
+responseTime: 1024
+lastUpdated: 2025-02-22T15:25:46.080Z
 startTime: 2025-02-01T06:13:36.599Z
 generator: Upptime <https://github.com/upptime/upptime>
