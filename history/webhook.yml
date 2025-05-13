@@ -1,7 +1,7 @@
 url: $WEBHOOK_URL
 status: down
 code: 502
-responseTime: 1195
-lastUpdated: 2025-05-12T23:23:34.110Z
+responseTime: 1023
+lastUpdated: 2025-05-13T23:23:57.928Z
 startTime: 2025-02-01T07:30:22.261Z
 generator: Upptime <https://github.com/upptime/upptime>
