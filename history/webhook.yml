@@ -1,7 +1,7 @@
 url: $WEBHOOK_URL
 status: up
 code: 200
-responseTime: 1086
-lastUpdated: 2025-10-29T23:23:57.022Z
+responseTime: 905
+lastUpdated: 2025-10-30T23:22:57.218Z
 startTime: 2025-02-01T07:30:22.261Z
 generator: Upptime <https://github.com/upptime/upptime>
