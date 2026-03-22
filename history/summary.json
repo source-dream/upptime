@@ -11,9 +11,9 @@
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.68%",
     "time": 1005,
-    "timeDay": 1057,
-    "timeWeek": 1003,
-    "timeMonth": 1012,
+    "timeDay": 930,
+    "timeWeek": 997,
+    "timeMonth": 1007,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2026-03-03": 59,
@@ -42,15 +42,15 @@
     "slug": "ymbhp-web",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "97.42%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.49%",
     "uptimeMonth": "99.14%",
     "uptimeYear": "99.50%",
     "time": 1727,
-    "timeDay": 2232,
-    "timeWeek": 2040,
-    "timeMonth": 1913,
-    "timeYear": 1817,
+    "timeDay": 1654,
+    "timeWeek": 2035,
+    "timeMonth": 1912,
+    "timeYear": 1819,
     "dailyMinutesDown": {
       "2026-03-20": 37,
       "2026-03-18": 32,
@@ -136,7 +136,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "webhook",
     "status": "down",
-    "uptime": "70.28%",
+    "uptime": "70.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -145,9 +145,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 992,
+    "timeYear": 993,
     "dailyMinutesDown": {
-      "2026-03-21": 88,
+      "2026-03-22": 109,
+      "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
       "2026-03-18": 1440,
@@ -256,8 +257,7 @@
       "2025-03-26": 1440,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
-      "2025-03-23": 1440,
-      "2025-03-22": 1440
+      "2025-03-23": 1440
     }
   }
 ]
